@@ -1,10 +1,4 @@
-students_db = [
-    {
-        "id": 1,
-        "name": "Roh",
-        "email": "roh@example.com"
-    }
-]
+students_db = [{"id": 1, "name": "Roh", "email": "roh@example.com"}]
 
 
 def get_all_students():
